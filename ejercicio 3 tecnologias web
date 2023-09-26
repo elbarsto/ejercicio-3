@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ejercicio 3</title>
+    </head>
+    <body>
+    <h1>pagina web</h1>
+    <p>aqui tienes el enlace </p>
+    <a> href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Tócame</a>
+     </body>
+
+</html>

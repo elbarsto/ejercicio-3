@@ -1,0 +1,10 @@
+/* styles.css */
+
+a {color:green;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color:red;
+}
